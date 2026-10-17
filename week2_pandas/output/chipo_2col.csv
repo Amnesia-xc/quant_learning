@@ -1,0 +1,1001 @@
+order_id,item_name
+1,Chips and Fresh Tomato Salsa
+1,Izze
+1,Nantucket Nectar
+1,Chips and Tomatillo-Green Chili Salsa
+2,Chicken Bowl
+3,Chicken Bowl
+3,Side of Chips
+4,Steak Burrito
+4,Steak Soft Tacos
+5,Steak Burrito
+5,Chips and Guacamole
+6,Chicken Crispy Tacos
+6,Chicken Soft Tacos
+7,Chicken Bowl
+7,Chips and Guacamole
+8,Chips and Tomatillo-Green Chili Salsa
+8,Chicken Burrito
+9,Chicken Burrito
+9,Canned Soda
+10,Chicken Bowl
+10,Chips and Guacamole
+11,Barbacoa Burrito
+11,Nantucket Nectar
+12,Chicken Burrito
+12,Izze
+13,Chips and Fresh Tomato Salsa
+13,Chicken Bowl
+14,Carnitas Burrito
+14,Canned Soda
+15,Chicken Burrito
+15,Chips and Tomatillo-Green Chili Salsa
+16,Steak Burrito
+16,Side of Chips
+17,Carnitas Bowl
+17,Bottled Water
+18,Chicken Soft Tacos
+18,Chicken Soft Tacos
+18,Chips and Guacamole
+18,Chips and Tomatillo Green Chili Salsa
+19,Barbacoa Bowl
+19,Chips
+20,Chips and Guacamole
+20,Chicken Bowl
+20,Steak Burrito
+20,Chicken Salad Bowl
+21,Chicken Burrito
+21,Steak Burrito
+21,Izze
+22,Steak Burrito
+22,Chips and Guacamole
+23,Steak Burrito
+23,Canned Soda
+24,Chicken Burrito
+24,Canned Soda
+25,Steak Bowl
+25,Chips and Fresh Tomato Salsa
+26,Barbacoa Soft Tacos
+26,Veggie Burrito
+27,Barbacoa Bowl
+27,Chips
+28,Chips and Guacamole
+28,Steak Soft Tacos
+28,Veggie Bowl
+28,Chicken Burrito
+29,Steak Burrito
+29,Steak Soft Tacos
+30,Izze
+30,Steak Burrito
+30,Chicken Burrito
+31,Steak Burrito
+31,Side of Chips
+32,Steak Burrito
+32,Chips and Guacamole
+33,Chicken Burrito
+33,Chips and Guacamole
+34,Chicken Soft Tacos
+34,Chicken Bowl
+34,Chips
+34,Chicken Bowl
+35,Chicken Soft Tacos
+35,Chips
+36,Barbacoa Burrito
+36,Chicken Burrito
+37,Chicken Burrito
+37,Steak Soft Tacos
+38,Veggie Bowl
+38,Steak Bowl
+38,Bottled Water
+39,Carnitas Burrito
+39,Chips and Fresh Tomato Salsa
+40,Steak Bowl
+40,Steak Bowl
+40,Steak Crispy Tacos
+41,Carnitas Burrito
+41,Chips and Guacamole
+42,Barbacoa Bowl
+42,Chips and Guacamole
+43,Carnitas Bowl
+43,Chicken Burrito
+44,Chicken Bowl
+44,Chips and Guacamole
+45,Steak Burrito
+45,Steak Bowl
+45,Chips and Guacamole
+46,Veggie Burrito
+46,Nantucket Nectar
+47,Steak Burrito
+47,Canned Soda
+48,Steak Burrito
+48,Chips and Guacamole
+49,Chicken Bowl
+49,Chips and Tomatillo Red Chili Salsa
+49,Chips and Guacamole
+50,Chips and Tomatillo-Green Chili Salsa
+50,Chicken Burrito
+51,Barbacoa Bowl
+51,Chicken Burrito
+51,Canned Soda
+52,Steak Soft Tacos
+52,Chips and Guacamole
+53,Chicken Burrito
+53,Barbacoa Burrito
+53,Chips and Guacamole
+54,Chicken Bowl
+54,Chips and Guacamole
+55,Steak Burrito
+55,Canned Soda
+56,Barbacoa Bowl
+56,Chips and Tomatillo Red Chili Salsa
+56,Chips and Guacamole
+57,Barbacoa Burrito
+57,Chips and Guacamole
+58,Chicken Burrito
+58,Chips and Tomatillo-Green Chili Salsa
+59,Chicken Burrito
+60,Chicken Salad Bowl
+61,Barbacoa Bowl
+61,Chips and Guacamole
+62,Chicken Bowl
+62,Chips and Guacamole
+63,Chicken Bowl
+63,Chips and Guacamole
+64,Chicken Bowl
+64,Veggie Bowl
+65,Barbacoa Burrito
+65,Carnitas Bowl
+65,Chips and Guacamole
+66,Steak Burrito
+67,Steak Burrito
+67,Side of Chips
+68,Chicken Burrito
+68,Chips and Guacamole
+69,Chicken Burrito
+69,Chips and Tomatillo-Green Chili Salsa
+70,Chicken Bowl
+70,Chips and Guacamole
+71,Chips and Guacamole
+71,Veggie Bowl
+71,Steak Burrito
+72,Chicken Burrito
+73,Chicken Bowl
+73,Chicken Burrito
+73,Canned Soda
+74,Carnitas Bowl
+74,Veggie Bowl
+74,Chips and Tomatillo-Green Chili Salsa
+75,Chips and Guacamole
+75,Chicken Burrito
+75,Barbacoa Crispy Tacos
+75,Chicken Burrito
+76,Chicken Burrito
+76,Canned Soda
+77,Chicken Burrito
+77,Nantucket Nectar
+78,Chicken Burrito
+78,Steak Soft Tacos
+79,Chicken Bowl
+80,Steak Burrito
+81,Chicken Burrito
+81,Canned Soda
+81,Canned Soda
+82,Barbacoa Soft Tacos
+82,Chicken Bowl
+82,Chips and Fresh Tomato Salsa
+83,Steak Soft Tacos
+83,Chips and Guacamole
+83,Veggie Salad Bowl
+84,Steak Bowl
+84,Chicken Burrito
+84,Chicken Burrito
+85,Steak Burrito
+85,Chips and Roasted Chili-Corn Salsa
+86,Veggie Bowl
+86,Chicken Bowl
+86,Chips and Fresh Tomato Salsa
+87,Canned Soda
+87,Steak Burrito
+88,Chicken Burrito
+88,Chips and Tomatillo-Green Chili Salsa
+89,Chicken Bowl
+89,Canned Soda
+89,Chips and Guacamole
+90,Chicken Burrito
+90,Chicken Burrito
+91,Chicken Burrito
+91,Nantucket Nectar
+92,Chicken Bowl
+92,Steak Bowl
+92,Chips
+93,Chicken Bowl
+93,Veggie Bowl
+93,Chicken Bowl
+93,Chips and Guacamole
+94,Chicken Salad Bowl
+95,Chips and Guacamole
+95,Steak Bowl
+96,Chicken Burrito
+96,Chicken Crispy Tacos
+96,Chicken Bowl
+97,Barbacoa Bowl
+97,Chicken Bowl
+97,Chips
+98,Barbacoa Burrito
+98,Chips
+98,Chicken Bowl
+99,Veggie Burrito
+99,Chips
+100,Steak Burrito
+100,Canned Soda
+101,Steak Burrito
+101,Chips and Guacamole
+102,Chicken Bowl
+102,Chips and Tomatillo Green Chili Salsa
+102,Chips and Roasted Chili Corn Salsa
+103,Steak Burrito
+103,Chips and Tomatillo Green Chili Salsa
+103,Steak Burrito
+103,Carnitas Soft Tacos
+103,Steak Burrito
+104,Carnitas Burrito
+104,Chips and Fresh Tomato Salsa
+105,Chicken Burrito
+106,Chicken Burrito
+106,Steak Bowl
+107,Chicken Burrito
+108,Steak Burrito
+108,Canned Soda
+108,Canned Soda
+108,Canned Soda
+108,Barbacoa Burrito
+109,Chicken Salad
+109,Canned Soda
+110,Chicken Bowl
+110,Veggie Bowl
+110,Barbacoa Bowl
+110,Barbacoa Crispy Tacos
+111,Chicken Salad Bowl
+111,Chicken Bowl
+112,Steak Burrito
+112,Steak Bowl
+113,Steak Bowl
+113,Canned Soda
+114,Steak Bowl
+114,Canned Soft Drink
+115,Steak Burrito
+115,Chips and Fresh Tomato Salsa
+116,Steak Soft Tacos
+116,Chips and Fresh Tomato Salsa
+117,Barbacoa Soft Tacos
+117,Chips and Guacamole
+118,Chicken Burrito
+118,Chips and Tomatillo-Green Chili Salsa
+119,Chicken Burrito
+119,Chicken Burrito
+120,Chicken Burrito
+120,Side of Chips
+121,Chicken Burrito
+121,Chips and Guacamole
+122,Steak Soft Tacos
+122,Side of Chips
+122,Canned Soda
+123,Steak Salad Bowl
+124,Chicken Bowl
+124,Chips
+124,Chicken Bowl
+125,Steak Bowl
+125,Steak Bowl
+125,Veggie Bowl
+125,Chips and Guacamole
+126,Chicken Burrito
+126,Chicken Bowl
+127,Chicken Bowl
+127,Canned Soft Drink
+128,Steak Soft Tacos
+128,Chips and Guacamole
+128,Veggie Salad Bowl
+129,Steak Burrito
+129,Steak Burrito
+129,6 Pack Soft Drink
+130,Steak Soft Tacos
+130,Chips and Tomatillo-Red Chili Salsa
+131,Chicken Bowl
+131,Chips and Fresh Tomato Salsa
+132,Chicken Bowl
+132,Chicken Bowl
+132,Chips
+133,Steak Bowl
+133,Side of Chips
+134,Chicken Burrito
+134,Chicken Burrito
+134,Chips
+135,Chips and Guacamole
+135,Chicken Bowl
+136,Chicken Soft Tacos
+136,Steak Burrito
+137,Chicken Salad Bowl
+138,Chicken Burrito
+138,Canned Soda
+138,Bottled Water
+139,Chicken Bowl
+139,Canned Soft Drink
+139,Chips
+140,Steak Burrito
+141,Chicken Burrito
+141,Chicken Soft Tacos
+142,Steak Burrito
+142,Chips and Fresh Tomato Salsa
+143,Chicken Bowl
+143,Chips
+143,Bottled Water
+144,Chicken Burrito
+144,Chips
+145,Chicken Soft Tacos
+145,Chicken Soft Tacos
+146,Barbacoa Burrito
+146,Steak Burrito
+147,Steak Bowl
+147,Canned Soft Drink
+148,Chicken Burrito
+148,Chicken Burrito
+148,Chips and Guacamole
+148,6 Pack Soft Drink
+149,Steak Soft Tacos
+149,Chips and Fresh Tomato Salsa
+149,Chicken Soft Tacos
+149,Chips and Guacamole
+149,Canned Soft Drink
+149,Canned Soft Drink
+150,Chicken Bowl
+150,Chips and Tomatillo-Red Chili Salsa
+150,Canned Soda
+151,Chicken Burrito
+151,Canned Soda
+152,Steak Burrito
+153,Chicken Soft Tacos
+154,Chicken Burrito
+154,Chips and Tomatillo Red Chili Salsa
+154,6 Pack Soft Drink
+155,Steak Burrito
+155,Izze
+155,Izze
+156,Steak Burrito
+156,Chicken Burrito
+157,Chicken Burrito
+157,Chips
+158,Chicken Crispy Tacos
+158,Chips and Tomatillo Green Chili Salsa
+159,Chicken Burrito
+159,Canned Soft Drink
+160,Steak Burrito
+160,Canned Soda
+161,Chicken Bowl
+161,Chicken Burrito
+162,Carnitas Burrito
+162,Chips and Fresh Tomato Salsa
+163,Barbacoa Burrito
+163,Bottled Water
+164,Steak Burrito
+164,Canned Soda
+165,Chicken Bowl
+165,Canned Soft Drink
+165,Canned Soft Drink
+166,Chicken Burrito
+166,Steak Burrito
+166,Chips
+167,Barbacoa Burrito
+167,Side of Chips
+168,Steak Bowl
+168,6 Pack Soft Drink
+169,Chicken Burrito
+169,Steak Soft Tacos
+170,Chicken Burrito
+170,Chips and Guacamole
+170,Canned Soft Drink
+171,Veggie Burrito
+171,Chips and Guacamole
+172,Chicken Burrito
+172,Barbacoa Burrito
+173,Chicken Burrito
+173,Carnitas Bowl
+174,Chicken Burrito
+174,Canned Soft Drink
+175,Steak Burrito
+175,Canned Soft Drink
+176,Steak Burrito
+176,Carnitas Soft Tacos
+176,Chips and Guacamole
+177,Chicken Bowl
+177,Chips
+178,Chicken Bowl
+179,Canned Soft Drink
+179,Chicken Bowl
+180,Steak Bowl
+180,Side of Chips
+180,Canned Soda
+181,Chicken Bowl
+182,Chips and Guacamole
+182,6 Pack Soft Drink
+182,Barbacoa Bowl
+183,Chicken Soft Tacos
+183,Steak Burrito
+184,Carnitas Burrito
+184,Chicken Bowl
+184,Chicken Burrito
+184,Chips
+184,Chips and Fresh Tomato Salsa
+185,Chicken Soft Tacos
+186,Chicken Soft Tacos
+186,Steak Bowl
+186,Barbacoa Crispy Tacos
+186,Izze
+187,Steak Burrito
+187,Side of Chips
+188,Carnitas Bowl
+188,Canned Soda
+189,Veggie Burrito
+189,Nantucket Nectar
+190,Steak Crispy Tacos
+190,Canned Soda
+191,Steak Burrito
+191,Chicken Soft Tacos
+192,Chicken Burrito
+192,Chips and Guacamole
+192,Chips and Tomatillo Red Chili Salsa
+192,Steak Bowl
+193,Bowl
+194,Chicken Burrito
+194,Steak Burrito
+195,Chicken Burrito
+195,Chicken Bowl
+195,Barbacoa Burrito
+195,Chicken Burrito
+195,Chicken Burrito
+195,Carnitas Soft Tacos
+195,Chicken Bowl
+195,Veggie Salad Bowl
+196,Chicken Bowl
+196,Chicken Burrito
+196,Chips and Fresh Tomato Salsa
+196,Canned Soft Drink
+197,Chicken Bowl
+197,Side of Chips
+198,Carnitas Burrito
+198,Chicken Burrito
+199,Chicken Bowl
+199,Chicken Bowl
+199,Chips and Guacamole
+200,Veggie Burrito
+200,Chips and Guacamole
+201,Veggie Burrito
+201,Chips and Guacamole
+202,Barbacoa Bowl
+202,Side of Chips
+202,Canned Soda
+203,Chicken Soft Tacos
+203,Bottled Water
+204,Chicken Burrito
+204,Side of Chips
+205,Carnitas Burrito
+205,Veggie Burrito
+205,Chicken Bowl
+205,Steak Burrito
+205,Chicken Burrito
+205,Chicken Bowl
+205,Chicken Bowl
+205,Barbacoa Crispy Tacos
+205,Chicken Burrito
+205,Chicken Burrito
+205,Chicken Bowl
+205,Chips
+206,Chicken Bowl
+206,Steak Bowl
+206,Canned Soft Drink
+206,Chips and Guacamole
+207,Steak Soft Tacos
+207,Chips and Guacamole
+207,Veggie Salad Bowl
+208,Veggie Burrito
+208,Chips and Guacamole
+209,Steak Bowl
+209,Steak Bowl
+210,Chicken Bowl
+210,Barbacoa Burrito
+211,Steak Burrito
+211,Chicken Soft Tacos
+212,Canned Soft Drink
+212,Carnitas Bowl
+212,Canned Soft Drink
+213,Steak Burrito
+213,Chicken Bowl
+214,Burrito
+214,Burrito
+215,Veggie Bowl
+215,Canned Soft Drink
+215,Chips and Guacamole
+215,Veggie Bowl
+215,Chips
+216,Chicken Burrito
+216,Chips and Guacamole
+217,Burrito
+217,Crispy Tacos
+217,Crispy Tacos
+218,Steak Burrito
+218,Chips and Guacamole
+219,Steak Bowl
+219,Side of Chips
+220,Chicken Salad Bowl
+220,Chicken Bowl
+221,Chicken Salad Bowl
+221,Chicken Salad Bowl
+222,Veggie Bowl
+222,Chicken Burrito
+222,Chips and Fresh Tomato Salsa
+223,Chicken Burrito
+223,Steak Burrito
+224,Veggie Burrito
+224,Chips and Guacamole
+225,Chips and Tomatillo Green Chili Salsa
+225,Carnitas Bowl
+225,Steak Burrito
+225,Bottled Water
+225,Canned Soft Drink
+226,Chicken Bowl
+226,Barbacoa Burrito
+226,Chips and Guacamole
+227,Chicken Bowl
+227,Chicken Bowl
+227,Chips and Guacamole
+228,Chicken Bowl
+229,Steak Burrito
+230,Chips and Guacamole
+230,Chicken Burrito
+230,Steak Burrito
+230,6 Pack Soft Drink
+230,Carnitas Crispy Tacos
+231,Veggie Bowl
+231,Chicken Bowl
+231,Barbacoa Burrito
+231,Chips
+231,Steak Bowl
+231,Chips and Guacamole
+232,Barbacoa Burrito
+232,Chips and Roasted Chili Corn Salsa
+233,Steak Burrito
+233,Chicken Burrito
+233,Carnitas Soft Tacos
+233,Canned Soft Drink
+233,Canned Soft Drink
+234,Chicken Salad Bowl
+234,Chicken Burrito
+234,Steak Soft Tacos
+234,Chips and Guacamole
+235,Steak Burrito
+235,Steak Burrito
+235,Barbacoa Burrito
+236,Barbacoa Burrito
+236,Steak Burrito
+237,Chicken Soft Tacos
+237,Chips and Tomatillo-Green Chili Salsa
+237,Izze
+237,Izze
+238,Steak Crispy Tacos
+238,Steak Burrito
+239,Chicken Bowl
+239,Chips
+240,Chicken Salad Bowl
+240,Barbacoa Burrito
+240,Chips and Guacamole
+241,Chicken Burrito
+242,Chicken Burrito
+242,Carnitas Soft Tacos
+243,Chicken Salad Bowl
+244,Barbacoa Bowl
+244,Chips and Tomatillo Red Chili Salsa
+244,Bottled Water
+245,Steak Bowl
+246,Chicken Bowl
+246,Side of Chips
+247,Chicken Crispy Tacos
+247,Chicken Burrito
+247,Chicken Crispy Tacos
+247,Nantucket Nectar
+248,Barbacoa Burrito
+248,Chips and Guacamole
+249,Chicken Bowl
+249,Chips and Guacamole
+250,Steak Salad Bowl
+250,Steak Salad Bowl
+251,Chicken Burrito
+251,Chips and Fresh Tomato Salsa
+251,Canned Soft Drink
+252,Barbacoa Soft Tacos
+252,Chicken Burrito
+253,Steak Salad Bowl
+254,Chicken Bowl
+254,Barbacoa Burrito
+254,Chips
+254,Chips
+254,Canned Soft Drink
+255,Veggie Bowl
+255,Chips and Guacamole
+256,Chicken Burrito
+256,Canned Soda
+257,Veggie Burrito
+257,Chips and Guacamole
+258,Chicken Bowl
+258,Carnitas Burrito
+258,Chips and Tomatillo Green Chili Salsa
+258,Chips and Guacamole
+259,Steak Burrito
+259,Chicken Soft Tacos
+260,Veggie Burrito
+260,Chips and Guacamole
+261,Chicken Salad Bowl
+262,Chicken Burrito
+262,Canned Soft Drink
+263,Chicken Burrito
+263,Chicken Bowl
+264,Steak Burrito
+264,6 Pack Soft Drink
+265,Chicken Burrito
+265,Chicken Soft Tacos
+265,Chips and Guacamole
+266,Veggie Bowl
+266,Chips and Guacamole
+267,Steak Burrito
+267,Canned Soda
+268,Chicken Bowl
+268,Chips and Roasted Chili-Corn Salsa
+269,Steak Burrito
+269,Side of Chips
+270,Canned Soft Drink
+270,Carnitas Burrito
+270,Bottled Water
+271,Chicken Bowl
+271,Chips and Tomatillo Green Chili Salsa
+272,Chicken Burrito
+272,Chips and Guacamole
+273,Steak Burrito
+273,Chicken Burrito
+274,Chicken Bowl
+274,Side of Chips
+275,Veggie Burrito
+275,Chips and Guacamole
+276,Steak Salad
+276,Steak Bowl
+276,Chips and Guacamole
+276,Carnitas Soft Tacos
+277,Chicken Bowl
+277,Chips and Guacamole
+277,Canned Soft Drink
+278,Chips and Guacamole
+278,Chicken Burrito
+279,Bowl
+279,Chips and Mild Fresh Tomato Salsa
+279,Burrito
+279,Chips and Guacamole
+280,Veggie Bowl
+280,Chips and Guacamole
+281,Steak Bowl
+281,Chips and Guacamole
+282,Chicken Burrito
+282,Canned Soft Drink
+282,Steak Burrito
+282,Canned Soft Drink
+283,Chicken Burrito
+283,Chips
+284,Chicken Bowl
+284,Chips and Guacamole
+284,Canned Soft Drink
+284,Steak Bowl
+285,Carnitas Burrito
+285,Chips and Tomatillo-Red Chili Salsa
+286,Chicken Salad Bowl
+286,Chips and Guacamole
+286,Canned Soft Drink
+287,Steak Burrito
+287,Chicken Soft Tacos
+287,Canned Soda
+288,Chicken Burrito
+288,Canned Soda
+288,Bottled Water
+289,Chicken Salad Bowl
+289,Chips and Tomatillo Green Chili Salsa
+289,Canned Soft Drink
+290,Bottled Water
+290,Chicken Bowl
+291,Steak Burrito
+291,Chips and Roasted Chili Corn Salsa
+291,Canned Soft Drink
+292,Veggie Burrito
+292,Chips and Guacamole
+293,Steak Burrito
+294,Chips and Guacamole
+294,Veggie Burrito
+295,Chicken Burrito
+295,Canned Soft Drink
+296,Barbacoa Burrito
+296,Side of Chips
+297,Chicken Bowl
+297,Canned Soft Drink
+298,6 Pack Soft Drink
+298,Chicken Bowl
+299,Barbacoa Burrito
+299,Chicken Burrito
+299,Chips and Fresh Tomato Salsa
+300,Chicken Burrito
+300,Steak Burrito
+301,Steak Burrito
+301,Steak Crispy Tacos
+301,Chips and Fresh Tomato Salsa
+302,Chips and Guacamole
+302,Veggie Burrito
+303,Chicken Bowl
+303,Chicken Burrito
+304,Canned Soft Drink
+304,Steak Burrito
+304,Veggie Bowl
+304,Veggie Soft Tacos
+305,Chicken Burrito
+305,Canned Soft Drink
+305,Steak Burrito
+306,Barbacoa Burrito
+306,6 Pack Soft Drink
+307,Chips and Guacamole
+307,Veggie Burrito
+308,Chicken Burrito
+308,Chips
+309,Chicken Burrito
+309,Steak Salad Bowl
+310,Barbacoa Bowl
+310,Side of Chips
+311,Steak Salad
+311,Steak Bowl
+311,Chips and Guacamole
+311,Carnitas Soft Tacos
+312,Barbacoa Burrito
+312,Steak Bowl
+312,Chips
+313,Burrito
+313,Burrito
+314,Veggie Burrito
+314,Chicken Salad Bowl
+315,Barbacoa Crispy Tacos
+315,Chips and Guacamole
+316,Chicken Bowl
+316,Canned Soft Drink
+317,Carnitas Burrito
+317,Chicken Crispy Tacos
+317,Canned Soft Drink
+318,Chips and Guacamole
+318,Veggie Burrito
+319,Chicken Bowl
+319,Chicken Bowl
+319,Steak Crispy Tacos
+320,Chicken Bowl
+320,Chips
+320,Canned Soft Drink
+321,Chicken Burrito
+321,Canned Soda
+321,Bottled Water
+322,Veggie Soft Tacos
+322,Chips and Tomatillo Green Chili Salsa
+322,Canned Soft Drink
+323,Steak Bowl
+323,Canned Soft Drink
+323,Chips
+324,Chicken Burrito
+324,Canned Soft Drink
+325,Chips and Guacamole
+325,Chicken Burrito
+325,Canned Soft Drink
+326,Chips and Guacamole
+326,Chicken Burrito
+326,Chicken Bowl
+326,Chicken Bowl
+327,Chicken Burrito
+327,Veggie Burrito
+328,Chicken Bowl
+328,Chips and Guacamole
+329,Chicken Burrito
+329,Chips and Guacamole
+330,Side of Chips
+330,Barbacoa Bowl
+331,Barbacoa Bowl
+331,Chicken Bowl
+332,Steak Burrito
+332,Canned Soda
+333,Steak Burrito
+333,Chips and Tomatillo Green Chili Salsa
+334,Chicken Burrito
+334,Steak Burrito
+335,Chips and Guacamole
+335,Veggie Burrito
+336,Chicken Burrito
+336,Chicken Bowl
+337,Chicken Salad Bowl
+338,Chicken Bowl
+338,Bottled Water
+338,Chips and Guacamole
+338,Carnitas Soft Tacos
+338,Canned Soda
+339,Carnitas Bowl
+340,Chicken Burrito
+340,Chips and Guacamole
+341,Steak Bowl
+342,Chips and Guacamole
+342,Veggie Burrito
+343,Chips
+343,Barbacoa Crispy Tacos
+343,Chicken Crispy Tacos
+343,Veggie Bowl
+343,Veggie Bowl
+343,Carnitas Bowl
+344,Chicken Burrito
+344,Carnitas Burrito
+344,Chicken Burrito
+345,Chicken Bowl
+345,Chips and Tomatillo Red Chili Salsa
+345,Chips and Guacamole
+346,Barbacoa Bowl
+346,Chips and Roasted Chili Corn Salsa
+346,Steak Bowl
+346,Veggie Bowl
+347,Chicken Bowl
+347,Chips and Guacamole
+348,Veggie Bowl
+349,Veggie Burrito
+349,Chips and Fresh Tomato Salsa
+350,Chicken Bowl
+350,Canned Soft Drink
+351,Carnitas Bowl
+351,Chips and Guacamole
+352,Barbacoa Burrito
+352,Barbacoa Burrito
+352,Chips and Guacamole
+353,Chicken Burrito
+353,Barbacoa Soft Tacos
+354,Chicken Burrito
+354,Barbacoa Burrito
+355,Steak Burrito
+355,Steak Burrito
+356,Steak Burrito
+356,Steak Burrito
+357,Chicken Salad Bowl
+358,Carnitas Burrito
+358,Chicken Crispy Tacos
+358,Canned Soft Drink
+359,Chicken Bowl
+359,Chips
+359,Canned Soft Drink
+360,Chicken Bowl
+360,Chicken Soft Tacos
+360,Canned Soft Drink
+361,Veggie Burrito
+361,Bottled Water
+362,Chicken Soft Tacos
+362,Chicken Bowl
+363,Barbacoa Burrito
+363,6 Pack Soft Drink
+363,Chips and Guacamole
+364,Chicken Bowl
+364,Chips and Guacamole
+365,Chicken Soft Tacos
+365,Canned Soft Drink
+366,Chicken Crispy Tacos
+366,Steak Burrito
+367,Veggie Bowl
+367,Barbacoa Burrito
+367,Bottled Water
+368,Chicken Bowl
+368,Veggie Burrito
+369,Chicken Bowl
+369,Steak Salad
+369,Chips and Guacamole
+370,Chicken Burrito
+370,Chips and Guacamole
+371,Steak Burrito
+371,Side of Chips
+372,Steak Bowl
+372,Chicken Bowl
+373,Veggie Bowl
+373,Chips and Guacamole
+374,Barbacoa Burrito
+374,Canned Soft Drink
+375,Steak Bowl
+375,Chips and Roasted Chili Corn Salsa
+376,Steak Burrito
+376,Steak Burrito
+376,Canned Soda
+377,Steak Bowl
+377,Steak Burrito
+378,Chicken Burrito
+378,Side of Chips
+379,Steak Burrito
+379,Chicken Bowl
+379,Chips and Tomatillo Green Chili Salsa
+379,Canned Soft Drink
+379,Steak Crispy Tacos
+380,Barbacoa Bowl
+380,Chicken Bowl
+380,Chips
+380,Bottled Water
+381,Chicken Soft Tacos
+381,Chicken Soft Tacos
+381,Nantucket Nectar
+382,Steak Bowl
+382,Chips and Guacamole
+383,Chicken Bowl
+383,Chips and Guacamole
+384,Chicken Bowl
+384,Veggie Burrito
+384,Chips
+384,Chicken Bowl
+385,Chicken Bowl
+385,Side of Chips
+386,Veggie Bowl
+386,Chicken Bowl
+387,Canned Soft Drink
+387,Chicken Burrito
+387,Steak Burrito
+387,Steak Burrito
+388,Steak Burrito
+388,Bottled Water
+389,Chicken Bowl
+389,Chips and Guacamole
+389,Chicken Crispy Tacos
+389,Chips and Fresh Tomato Salsa
+389,Chicken Bowl
+389,Chips
+390,Chips and Guacamole
+390,Chicken Burrito
+391,Steak Bowl
+391,Chips and Guacamole
+392,Chicken Burrito
+392,Side of Chips
+392,Canned Soda
+393,Steak Burrito
+393,Canned Soda
+394,Carnitas Burrito
+394,Veggie Salad Bowl
+395,Steak Soft Tacos
+395,Chips and Fresh Tomato Salsa
+396,Canned Soft Drink
+396,Canned Soft Drink
+396,Chicken Burrito
+396,Chicken Soft Tacos
+397,Steak Burrito
+397,Steak Soft Tacos
+398,Chicken Soft Tacos
+398,Bottled Water
+399,Chips and Guacamole
+399,Veggie Burrito
+400,Veggie Burrito
+400,Carnitas Burrito
+400,Chicken Bowl
+401,Chicken Bowl
+402,Chicken Bowl
+402,Chips and Guacamole
+402,Chicken Bowl
+402,Chicken Bowl
+403,Barbacoa Burrito
+403,Chips and Tomatillo-Green Chili Salsa
+404,Chicken Burrito
+404,Carnitas Bowl
+404,Chips
+405,Chicken Burrito
+405,Canned Soft Drink
+406,Barbacoa Soft Tacos
+406,Canned Soft Drink
+407,Chicken Burrito
+407,Steak Burrito
+408,Canned Soft Drink
+408,Chicken Bowl
+408,Chicken Bowl
+409,Chicken Bowl
+409,Chicken Bowl
+410,Chicken Burrito
+410,Canned Soft Drink
+410,Chicken Soft Tacos
