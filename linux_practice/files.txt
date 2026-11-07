@@ -1,0 +1,4 @@
+total 0
+-rwxrwxrwx 1 amnesia amnesia   18 Nov  6 23:13 a.txt
+-rwxrwxrwx 1 amnesia amnesia    0 Nov  7 18:17 files.txt
+drwxrwxrwx 1 amnesia amnesia 4096 Nov  6 23:21 project
