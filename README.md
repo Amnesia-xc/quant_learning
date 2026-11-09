@@ -1,3 +1,3 @@
-# Quant Learning
+# Experiment Title
 Numpy, pandas, SQL, Linux and Git practice.
 ## Dev branch note
