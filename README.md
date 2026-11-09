@@ -1,2 +1,3 @@
 # Quant Learning
 Numpy, pandas, SQL, Linux and Git practice.
+## Dev branch note
